@@ -28,3 +28,5 @@
     - git remote add origin https://github.com/MickeChi/git-test.git
     - git branch -M main | renombra master a main
     - git push -u origin main | sube cambios al repositorio remoto
+
+23. git push | sube los cambios de la rama current a su equivalente en repositorio remoto
