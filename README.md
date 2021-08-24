@@ -14,4 +14,8 @@
 
 7.- git commit -amend
 
-8.- git checkout -b branch-heroes
+8.- git branch  | muestra todas las ramas disponibles 
+
+9.- git checkout -b branch-heroes | crea rama y hace checkout
+
+10.- git checkout branch-heroes | hace checkout en rama
