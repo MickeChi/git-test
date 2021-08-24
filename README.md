@@ -6,4 +6,8 @@
 
 3.- git reset .
 
-3.- git commit -m "este es el mensaje"
+4.- git commit -m "este es el mensaje
+
+5.- git checkout --m . | restaura el repositorio al ultimo commit
+
+6.- git log | muestra el log de commits    
