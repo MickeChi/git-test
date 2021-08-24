@@ -11,3 +11,7 @@
 5.- git checkout --m . | restaura el repositorio al ultimo commit
 
 6.- git log | muestra el log de commits    
+
+7.- git commit -amend
+
+8.- git checkout -b branch-heroes
