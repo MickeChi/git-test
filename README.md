@@ -32,3 +32,7 @@
 13. git push | sube los cambios de la rama current a su equivalente en repositorio remoto
 
 14. git commit -am "cambios de nuevo comanto" | atajo para git add. y git commit m
+
+# Flujo git flow con comandos git
+    https://gist.github.com/JamesMGreene/cdd0ac49f90c987e45ac
+    https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow
